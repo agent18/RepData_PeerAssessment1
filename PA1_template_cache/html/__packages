@@ -2,3 +2,9 @@ base
 dplyr
 stringr
 lattice
+lubridate
+chron
+ggplot2
+reshape2
+rmarkdown
+knitr
